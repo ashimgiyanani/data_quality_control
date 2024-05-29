@@ -1,0 +1,17 @@
+# irgnore all logs
+*.log
+*.lprof
+
+# ignore data files
+*.mat
+*.csv
+*.dat
+
+# ignore compiled python code
+*.pyc
+
+# ignore folders
+**/.venv/*.*
+
+# ignore figures
+*.png
